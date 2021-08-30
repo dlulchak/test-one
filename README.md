@@ -2,8 +2,4 @@
 
 first commit in new repo.
 
-commit
-
-last one.
-
-just kidding 
+commit, a couple times.
